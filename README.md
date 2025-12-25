@@ -1,6 +1,7 @@
 # BNPL Data Warehouse & Analytics Dashboard
 
-A simplified implementation of a data warehouse for a Buy Now Pay Later (BNPL) fintech company, designed to showcase data engineering skills and demonstrate key principles in modern data engineering.
+Hands-on implementation and analysis of a Buy Now Pay Later (BNPL) data pipeline based on an open-source reference project. The focus of this project is understanding data ingestion, transformation, and storage workflows rather than building a production system.
+
 
 ## Project Overview
 
